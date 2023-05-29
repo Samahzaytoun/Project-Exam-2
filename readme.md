@@ -69,15 +69,13 @@ Best of luck with the project, and enjoy building Holidaze's new front-end appli
 ## Screenshots
 
 1. Home Page
-
-
-2. Login & Register
-
-
+![Screenshot](./screenshots/1.png)
+1. Login & Register
+![Screenshot](./screenshots/2.png)
 3. Details of Venua
-
-
+![Screenshot](./screenshots/3.png)
 4. Booking and Calender
+![Screenshot](./screenshots/4.png)
 
 
    
