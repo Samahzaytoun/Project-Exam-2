@@ -1,7 +1,0 @@
-node_modules/
-dist/
-.vscode/
-.idea/
-.build/
-.DS_Store
-Thumbs.db
